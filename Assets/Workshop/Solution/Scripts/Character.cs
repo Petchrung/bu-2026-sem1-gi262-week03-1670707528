@@ -17,6 +17,7 @@ namespace Solution
         protected bool isAlive;
         protected bool isFreeze;
 
+
         // Start is called before the first frame update
         protected void GetRemainEnergy()
         {
